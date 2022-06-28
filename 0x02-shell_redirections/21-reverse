@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "kit" | rev "tik"
+rev
